@@ -3,8 +3,6 @@
 #### I’m a **Graphic Designer and Aspiring Frontend Developer** 
 Crafting Visual Solutions and Web Development
 
-##### **Based in Bern, Switzerland**
-
 **🌞 I like:** 
 
 - life:🌿
