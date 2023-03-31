@@ -35,8 +35,6 @@ ____
 ![Joomla](https://img.shields.io/badge/-Joomla-181717?style=flat&labelColor=000000&logo=joomla)
 ![Vscode](https://img.shields.io/badge/-Vscode-181717?style=flat&labelColor=000000&logo=visualstudiocode)
 
-________
-
 #### You can contact me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/viktoriia-boiko-b67992a2/ "Connect on LinkedIn") [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:boiko.viktorika@gmail.com "Connect via Email") 
