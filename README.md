@@ -26,7 +26,7 @@ ____
 ![React](https://img.shields.io/badge/-React-black?style=flat&labelColor=000000&logo=react)
 ![Seo](https://img.shields.io/badge/-Seo-181717?style=flat&labelColor=000000&logo=google)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&labelColor=000000&logo=github)
-
+<br>
 ![Figma](https://img.shields.io/badge/-Figma-181717?style=flat&labelColor=000000&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-181717?style=flat&labelColor=000000&logo=adobephotoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-181717?style=flat&labelColor=000000&logo=adobeillustrator)
