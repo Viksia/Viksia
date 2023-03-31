@@ -37,12 +37,12 @@ ____
 
 #### You can contact me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-181717?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/viktoriia-boiko-b67992a2/ "Connect on LinkedIn") 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-181717?style=flat&logo=Gmail&logoColor=white)](mailto:boiko.viktorika@gmail.com "Connect via Email") 
-[![Messenger Badge](https://img.shields.io/badge/-Messenger-181717?style=flat&logo=Messenger&logoColor=white)](https://m.me/Boyko.Viktoriia "Connect on Facebook")
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-181717?style=flat&logo=Linkedin&logoColor=blue)](https://linkedin.com/in/https://www.linkedin.com/in/viktoriia-boiko-b67992a2/ "Connect on LinkedIn") 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-181717?style=flat&logo=Gmail&logoColor=red)](mailto:boiko.viktorika@gmail.com "Connect via Email") 
+[![Messenger Badge](https://img.shields.io/badge/-Messenger-181717?style=flat&logo=Messenger&logoColor=green)](https://m.me/Boyko.Viktoriia "Connect on Facebook")
 [![Behance Badge](https://img.shields.io/badge/-Behance-181717?style=flat&logo=Behance&logoColor=white)](https://www.behance.net/341204db "Connect on Behance")
-[![Website Badge](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=Google-Chrome&logoColor=white&link=http://viktoriiaboiko.com/)](http://viktoriiaboiko.com/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-181717?style=flat&logo=Telegram&logoColor=white)](https://t.me/ViktorikaBoiko "Contact on Telegram")
+[![Website Badge](https://img.shields.io/badge/-Portfolio-181717?style=flat&logo=Google-Chrome&logoColor=purple&link=http://viktoriiaboiko.com/)](http://viktoriiaboiko.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-181717?style=flat&logo=Telegram&logoColor=blue)](https://t.me/ViktorikaBoiko "Contact on Telegram")
 
 
    
