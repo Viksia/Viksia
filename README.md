@@ -15,23 +15,24 @@ and of course **coding** <img width='30x'  align='center' src='https://camo.gith
 ⚡ **Fun fact:** I love what I do - code and help people with their projects :seedling:
 ____
 
-#### Skills and Tools
+#### Skills and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&labelColor=000000&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&labelColor=000000&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&labelColor=000000&logo=bootstrap)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&labelColor=000000&logo=sass)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&labelColor=000000&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat&labelColor=000000&logo=react)
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&labelColor=000000&logo=sass)
+![Seo](https://img.shields.io/badge/-Seo-181717?style=flat&labelColor=000000&logo=google)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&labelColor=000000&logo=github)
+
 ![Figma](https://img.shields.io/badge/-Figma-181717?style=flat&labelColor=000000&logo=figma)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-181717?style=flat&labelColor=000000&logo=adobephotoshop)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-181717?style=flat&labelColor=000000&logo=adobeillustrator)
 ![Indesign](https://img.shields.io/badge/-Indesign-181717?style=flat&labelColor=000000&logo=adobeindesign)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-181717?style=flat&labelColor=000000&logo=wordpress)
 ![Joomla](https://img.shields.io/badge/-Joomla-181717?style=flat&labelColor=000000&logo=joomla)
-![Seo](https://img.shields.io/badge/-Seo-181717?style=flat&labelColor=000000&logo=google)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&labelColor=000000&logo=github)
 ![Vscode](https://img.shields.io/badge/-Vscode-181717?style=flat&labelColor=000000&logo=visualstudiocode)
 
 ________
